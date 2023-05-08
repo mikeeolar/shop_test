@@ -98,7 +98,7 @@ class _CartItemViewState extends State<CartItemView>
                       child: Text(
                         '1',
                         style: Theme.of(context).textTheme.titleLarge!.copyWith(
-                            fontSize: 15.sp,
+                            fontSize: 12.sp,
                             color: Colors.white,
                             fontWeight: FontWeight.w700),
                       ),
@@ -231,7 +231,7 @@ class _CartItemViewState extends State<CartItemView>
                               .textTheme
                               .titleLarge!
                               .copyWith(
-                                  fontSize: 25.sp,
+                                  fontSize: 20.sp,
                                   color: Colors.black,
                                   fontWeight: FontWeight.w700),
                         ),
@@ -254,7 +254,7 @@ class _CartItemViewState extends State<CartItemView>
                                       .textTheme
                                       .displayMedium!
                                       .copyWith(
-                                          fontSize: 16.sp,
+                                          fontSize: 12.sp,
                                           color: BrandColors.textColor,
                                           fontWeight: FontWeight.w600),
                                 ),
@@ -273,7 +273,7 @@ class _CartItemViewState extends State<CartItemView>
                                       .textTheme
                                       .displayMedium!
                                       .copyWith(
-                                          fontSize: 16.sp,
+                                          fontSize: 12.sp,
                                           color: BrandColors.textColor,
                                           fontWeight: FontWeight.w600),
                                 ),
@@ -292,7 +292,7 @@ class _CartItemViewState extends State<CartItemView>
                                       .textTheme
                                       .displayMedium!
                                       .copyWith(
-                                          fontSize: 16.sp,
+                                          fontSize: 12.sp,
                                           color: BrandColors.textColor,
                                           fontWeight: FontWeight.w600),
                                 ),
@@ -327,7 +327,7 @@ class _CartItemViewState extends State<CartItemView>
                                   .textTheme
                                   .displayMedium!
                                   .copyWith(
-                                    fontSize: 16,
+                                    fontSize: 12,
                                     fontWeight: FontWeight.w800,
                                   ),
                               indicator: UnderlineTabIndicator(
@@ -362,7 +362,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                              fontSize: 16.sp,
+                                              fontSize: 12.sp,
                                               color: BrandColors.textColor,
                                               fontWeight: FontWeight.w700),
                                     ),
@@ -373,7 +373,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                              fontSize: 16.sp,
+                                              fontSize: 12.sp,
                                               color: Colors.black,
                                               fontWeight: FontWeight.w700),
                                     ),
@@ -388,7 +388,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                              fontSize: 16.sp,
+                                              fontSize: 12.sp,
                                               color: BrandColors.textColor,
                                               fontWeight: FontWeight.w700),
                                     ),
@@ -399,7 +399,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                              fontSize: 16.sp,
+                                              fontSize: 12.sp,
                                               color: Colors.black,
                                               fontWeight: FontWeight.w700),
                                     ),
@@ -414,7 +414,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                              fontSize: 16.sp,
+                                              fontSize: 12.sp,
                                               color: BrandColors.textColor,
                                               fontWeight: FontWeight.w700),
                                     ),
@@ -425,7 +425,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                              fontSize: 16.sp,
+                                              fontSize: 12.sp,
                                               color: Colors.black,
                                               fontWeight: FontWeight.w700),
                                     ),
@@ -444,7 +444,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                              fontSize: 16.sp,
+                                              fontSize: 12.sp,
                                               color: BrandColors.textColor,
                                               fontWeight: FontWeight.w700),
                                     ),
@@ -455,7 +455,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                              fontSize: 16.sp,
+                                              fontSize: 12.sp,
                                               color: Colors.black,
                                               fontWeight: FontWeight.w700),
                                     ),
@@ -470,7 +470,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                              fontSize: 16.sp,
+                                              fontSize: 12.sp,
                                               color: BrandColors.textColor,
                                               fontWeight: FontWeight.w700),
                                     ),
@@ -481,7 +481,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                              fontSize: 16.sp,
+                                              fontSize: 12.sp,
                                               color: Colors.black,
                                               fontWeight: FontWeight.w700),
                                     ),
@@ -496,7 +496,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                              fontSize: 16.sp,
+                                              fontSize: 12.sp,
                                               color: BrandColors.textColor,
                                               fontWeight: FontWeight.w700),
                                     ),
@@ -507,7 +507,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                              fontSize: 16.sp,
+                                              fontSize: 12.sp,
                                               color: Colors.black,
                                               fontWeight: FontWeight.w700),
                                     ),
@@ -557,7 +557,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                            fontSize: 15.sp,
+                                            fontSize: 12.sp,
                                             color: BrandColors.textColor,
                                             fontWeight: FontWeight.w500,
                                           ),
@@ -581,7 +581,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                            fontSize: 15.sp,
+                                            fontSize: 12.sp,
                                             color: BrandColors.textColor,
                                             fontWeight: FontWeight.w500,
                                           ),
@@ -606,7 +606,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                            fontSize: 15.sp,
+                                            fontSize: 12.sp,
                                             color: BrandColors.textColor,
                                             fontWeight: FontWeight.w500,
                                           ),
@@ -631,7 +631,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                            fontSize: 15.sp,
+                                            fontSize: 12.sp,
                                             color: BrandColors.textColor,
                                             fontWeight: FontWeight.w500,
                                           ),
@@ -660,7 +660,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                            fontSize: 15.sp,
+                                            fontSize: 12.sp,
                                             color: BrandColors.textColor,
                                             fontWeight: FontWeight.w500,
                                           ),
@@ -678,7 +678,7 @@ class _CartItemViewState extends State<CartItemView>
                               .textTheme
                               .displayMedium!
                               .copyWith(
-                                fontSize: 16.sp,
+                                fontSize: 12.sp,
                                 color: BrandColors.textColor,
                                 fontWeight: FontWeight.w500,
                               ),
@@ -719,7 +719,7 @@ class _CartItemViewState extends State<CartItemView>
                               .textTheme
                               .displayMedium!
                               .copyWith(
-                                fontSize: 20.sp,
+                                fontSize: 16.sp,
                                 color: Colors.black,
                                 fontWeight: FontWeight.w800,
                               ),
@@ -736,7 +736,7 @@ class _CartItemViewState extends State<CartItemView>
                                       .textTheme
                                       .displayMedium!
                                       .copyWith(
-                                          fontSize: 15.sp,
+                                          fontSize: 12.sp,
                                           color: BrandColors.textColor,
                                           fontWeight: FontWeight.w700),
                                 ),
@@ -747,7 +747,7 @@ class _CartItemViewState extends State<CartItemView>
                                       .textTheme
                                       .displayMedium!
                                       .copyWith(
-                                          fontSize: 15.sp,
+                                          fontSize: 12.sp,
                                           color: Colors.black,
                                           fontWeight: FontWeight.w700),
                                 ),
@@ -762,7 +762,7 @@ class _CartItemViewState extends State<CartItemView>
                                       .textTheme
                                       .displayMedium!
                                       .copyWith(
-                                          fontSize: 15.sp,
+                                          fontSize: 12.sp,
                                           color: BrandColors.textColor,
                                           fontWeight: FontWeight.w700),
                                 ),
@@ -773,7 +773,7 @@ class _CartItemViewState extends State<CartItemView>
                                       .textTheme
                                       .displayMedium!
                                       .copyWith(
-                                          fontSize: 15.sp,
+                                          fontSize: 12.sp,
                                           color: Colors.black,
                                           fontWeight: FontWeight.w700),
                                 ),
@@ -788,7 +788,7 @@ class _CartItemViewState extends State<CartItemView>
                                       .textTheme
                                       .displayMedium!
                                       .copyWith(
-                                          fontSize: 15.sp,
+                                          fontSize: 12.sp,
                                           color: BrandColors.textColor,
                                           fontWeight: FontWeight.w700),
                                 ),
@@ -799,7 +799,7 @@ class _CartItemViewState extends State<CartItemView>
                                       .textTheme
                                       .displayMedium!
                                       .copyWith(
-                                          fontSize: 15.sp,
+                                          fontSize: 12.sp,
                                           color: Colors.black,
                                           fontWeight: FontWeight.w700),
                                 ),
@@ -816,7 +816,7 @@ class _CartItemViewState extends State<CartItemView>
                                   .textTheme
                                   .displayMedium!
                                   .copyWith(
-                                      fontSize: 20.sp,
+                                      fontSize: 16.sp,
                                       color: Colors.black,
                                       fontWeight: FontWeight.w700),
                             ),
@@ -835,7 +835,7 @@ class _CartItemViewState extends State<CartItemView>
                                         .textTheme
                                         .displayMedium!
                                         .copyWith(
-                                            fontSize: 12.sp,
+                                            fontSize: 10.sp,
                                             color: Colors.black,
                                             fontWeight: FontWeight.w700),
                                   ),
@@ -852,7 +852,7 @@ class _CartItemViewState extends State<CartItemView>
                                             .textTheme
                                             .displayMedium!
                                             .copyWith(
-                                                fontSize: 20.sp,
+                                                fontSize: 16.sp,
                                                 color: Colors.black,
                                                 fontWeight: FontWeight.w700),
                                       ),
@@ -875,9 +875,9 @@ class _CartItemViewState extends State<CartItemView>
                                                 borderRadius:
                                                     BorderRadius.circular(10.r),
                                               ),
-                                              maximumSize: const Size(120, 40),
+                                              maximumSize: const Size(140, 40),
                                               side: BorderSide(
-                                                width: 2,
+                                                width: 1.5,
                                                 color: HexColor('#4DAB96'),
                                               )),
                                           child: Row(
@@ -921,7 +921,7 @@ class _CartItemViewState extends State<CartItemView>
                                   .textTheme
                                   .displayMedium!
                                   .copyWith(
-                                      fontSize: 18.sp,
+                                      fontSize: 16.sp,
                                       color: Colors.black,
                                       fontWeight: FontWeight.w700),
                             ),
@@ -1026,7 +1026,7 @@ class _CartItemViewState extends State<CartItemView>
                                               .textTheme
                                               .displayMedium!
                                               .copyWith(
-                                                  fontSize: 18.sp,
+                                                  fontSize: 14.sp,
                                                   color: HexColor('#4DAB96'),
                                                   fontWeight: FontWeight.w700),
                                         ),
@@ -1046,7 +1046,7 @@ class _CartItemViewState extends State<CartItemView>
                                               .textTheme
                                               .displayMedium!
                                               .copyWith(
-                                                  fontSize: 16.sp,
+                                                  fontSize: 14.sp,
                                                   color: Colors.black,
                                                   fontWeight: FontWeight.w600),
                                         ),
@@ -1067,7 +1067,7 @@ class _CartItemViewState extends State<CartItemView>
                                               .textTheme
                                               .displayMedium!
                                               .copyWith(
-                                                  fontSize: 18.sp,
+                                                  fontSize: 14.sp,
                                                   color: HexColor('#4DAB96'),
                                                   fontWeight: FontWeight.w700),
                                         ),
@@ -1087,7 +1087,7 @@ class _CartItemViewState extends State<CartItemView>
                                               .textTheme
                                               .displayMedium!
                                               .copyWith(
-                                                  fontSize: 16.sp,
+                                                  fontSize: 14.sp,
                                                   color: Colors.black,
                                                   fontWeight: FontWeight.w600),
                                         ),
@@ -1108,7 +1108,7 @@ class _CartItemViewState extends State<CartItemView>
                                               .textTheme
                                               .displayMedium!
                                               .copyWith(
-                                                  fontSize: 18.sp,
+                                                  fontSize: 14.sp,
                                                   color: HexColor('#4DAB96'),
                                                   fontWeight: FontWeight.w700),
                                         ),
@@ -1128,7 +1128,7 @@ class _CartItemViewState extends State<CartItemView>
                                               .textTheme
                                               .displayMedium!
                                               .copyWith(
-                                                  fontSize: 16.sp,
+                                                  fontSize: 14.sp,
                                                   color: Colors.black,
                                                   fontWeight: FontWeight.w600),
                                         ),
@@ -1149,7 +1149,7 @@ class _CartItemViewState extends State<CartItemView>
                                               .textTheme
                                               .displayMedium!
                                               .copyWith(
-                                                  fontSize: 18.sp,
+                                                  fontSize: 14.sp,
                                                   color: HexColor('#4DAB96'),
                                                   fontWeight: FontWeight.w700),
                                         ),
@@ -1169,7 +1169,7 @@ class _CartItemViewState extends State<CartItemView>
                                               .textTheme
                                               .displayMedium!
                                               .copyWith(
-                                                  fontSize: 16.sp,
+                                                  fontSize: 14.sp,
                                                   color: Colors.black,
                                                   fontWeight: FontWeight.w600),
                                         ),
@@ -1190,7 +1190,7 @@ class _CartItemViewState extends State<CartItemView>
                                               .textTheme
                                               .displayMedium!
                                               .copyWith(
-                                                  fontSize: 18.sp,
+                                                  fontSize: 14.sp,
                                                   color: HexColor('#4DAB96'),
                                                   fontWeight: FontWeight.w700),
                                         ),
@@ -1210,7 +1210,7 @@ class _CartItemViewState extends State<CartItemView>
                                               .textTheme
                                               .displayMedium!
                                               .copyWith(
-                                                  fontSize: 16.sp,
+                                                  fontSize: 14.sp,
                                                   color: Colors.black,
                                                   fontWeight: FontWeight.w600),
                                         ),
@@ -1227,7 +1227,7 @@ class _CartItemViewState extends State<CartItemView>
                                   .textTheme
                                   .displayMedium!
                                   .copyWith(
-                                      fontSize: 18.sp,
+                                      fontSize: 16.sp,
                                       color: Colors.black,
                                       fontWeight: FontWeight.w700),
                             ),
@@ -1321,7 +1321,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                              fontSize: 20.sp,
+                                              fontSize: 16.sp,
                                               color: Colors.black,
                                               fontWeight: FontWeight.w700),
                                     ),
@@ -1332,7 +1332,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                              fontSize: 15.sp,
+                                              fontSize: 12.sp,
                                               color: BrandColors.textColor,
                                               fontWeight: FontWeight.w500),
                                     ),
@@ -1358,7 +1358,7 @@ class _CartItemViewState extends State<CartItemView>
                                             .textTheme
                                             .displayMedium!
                                             .copyWith(
-                                              fontSize: 15.sp,
+                                              fontSize: 12.sp,
                                               color: Colors.black,
                                               fontWeight: FontWeight.w500,
                                             ),
@@ -1376,841 +1376,218 @@ class _CartItemViewState extends State<CartItemView>
                               height: 25.h,
                             ),
                             Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                Row(
-                                  mainAxisAlignment:
-                                      MainAxisAlignment.spaceBetween,
-                                  children: [
-                                    Row(
-                                      children: [
-                                        const CircleAvatar(
-                                          radius: 15,
-                                          child: Icon(Icons.person),
-                                        ),
-                                        SizedBox(width: 10.w),
-                                        Text(
-                                          'Eren Y****r',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 15.sp,
-                                                color: Colors.black,
-                                                fontWeight: FontWeight.w800,
-                                              ),
-                                        ),
-                                      ],
-                                    ),
-                                    Row(
-                                      mainAxisAlignment:
-                                          MainAxisAlignment.center,
-                                      crossAxisAlignment:
-                                          CrossAxisAlignment.center,
-                                      children: [
-                                        Icon(
-                                          Icons.star,
-                                          color: HexColor('#F6A341'),
-                                          size: 15,
-                                        ),
-                                        SizedBox(width: 5.w),
-                                        Text(
-                                          '5.0',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 20.sp,
-                                                color: Colors.black,
-                                                fontWeight: FontWeight.w800,
-                                              ),
-                                        ),
-                                        SizedBox(width: 15.w),
-                                        Padding(
-                                          padding:
-                                              const EdgeInsets.only(top: 5),
-                                          child: Text(
-                                            '****',
+                                children: List.generate(
+                              5,
+                              (index) => Column(
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  Row(
+                                    mainAxisAlignment:
+                                        MainAxisAlignment.spaceBetween,
+                                    children: [
+                                      Row(
+                                        children: [
+                                          const CircleAvatar(
+                                            radius: 15,
+                                            child: Icon(Icons.person),
+                                          ),
+                                          SizedBox(width: 10.w),
+                                          Text(
+                                            'Eren Y****r',
                                             style: Theme.of(context)
                                                 .textTheme
                                                 .displayMedium!
                                                 .copyWith(
-                                                  fontSize: 15.sp,
+                                                  fontSize: 14.sp,
                                                   color: Colors.black,
                                                   fontWeight: FontWeight.w800,
+                                                ),
+                                          ),
+                                        ],
+                                      ),
+                                      Row(
+                                        mainAxisAlignment:
+                                            MainAxisAlignment.center,
+                                        crossAxisAlignment:
+                                            CrossAxisAlignment.center,
+                                        children: [
+                                          Icon(
+                                            Icons.star,
+                                            color: HexColor('#F6A341'),
+                                            size: 15,
+                                          ),
+                                          SizedBox(width: 5.w),
+                                          Text(
+                                            '5.0',
+                                            style: Theme.of(context)
+                                                .textTheme
+                                                .displayMedium!
+                                                .copyWith(
+                                                  fontSize: 14.sp,
+                                                  color: Colors.black,
+                                                  fontWeight: FontWeight.w800,
+                                                ),
+                                          ),
+                                          SizedBox(width: 15.w),
+                                          Padding(
+                                            padding:
+                                                const EdgeInsets.only(top: 5),
+                                            child: Text(
+                                              '****',
+                                              style: Theme.of(context)
+                                                  .textTheme
+                                                  .displayMedium!
+                                                  .copyWith(
+                                                    fontSize: 12.sp,
+                                                    color: Colors.black,
+                                                    fontWeight: FontWeight.w800,
+                                                  ),
+                                            ),
+                                          ),
+                                        ],
+                                      ),
+                                    ],
+                                  ),
+                                  SizedBox(height: 10.h),
+                                  SingleChildScrollView(
+                                    scrollDirection: Axis.horizontal,
+                                    child: Row(
+                                      children: [
+                                        Container(
+                                          padding: EdgeInsets.symmetric(
+                                              horizontal: 10.w, vertical: 5.h),
+                                          decoration: BoxDecoration(
+                                            color: HexColor('#EEEFF1'),
+                                            border: Border.all(
+                                              color: HexColor('#4DAB96'),
+                                            ),
+                                            borderRadius:
+                                                BorderRadius.circular(50),
+                                          ),
+                                          child: Text(
+                                            'Product in good condition',
+                                            style: Theme.of(context)
+                                                .textTheme
+                                                .displayMedium!
+                                                .copyWith(
+                                                  fontSize: 11.sp,
+                                                  color: HexColor('#4DAB96'),
+                                                  fontWeight: FontWeight.w500,
+                                                ),
+                                          ),
+                                        ),
+                                        SizedBox(width: 10.w),
+                                        Container(
+                                          padding: EdgeInsets.symmetric(
+                                              horizontal: 10.w, vertical: 5.h),
+                                          decoration: BoxDecoration(
+                                            color: HexColor('#EEEFF1'),
+                                            border: Border.all(
+                                              color: HexColor('#4DAB96'),
+                                            ),
+                                            borderRadius:
+                                                BorderRadius.circular(50),
+                                          ),
+                                          child: Text(
+                                            'Very fast delivery',
+                                            style: Theme.of(context)
+                                                .textTheme
+                                                .displayMedium!
+                                                .copyWith(
+                                                  fontSize: 11.sp,
+                                                  color: HexColor('#4DAB96'),
+                                                  fontWeight: FontWeight.w500,
+                                                ),
+                                          ),
+                                        ),
+                                        SizedBox(width: 10.w),
+                                        Container(
+                                          padding: EdgeInsets.symmetric(
+                                              horizontal: 10.w, vertical: 5.h),
+                                          decoration: BoxDecoration(
+                                            color: HexColor('#EEEFF1'),
+                                            border: Border.all(
+                                              color: HexColor('#4DAB96'),
+                                            ),
+                                            borderRadius:
+                                                BorderRadius.circular(50),
+                                          ),
+                                          child: Text(
+                                            'Fast wallet transfer',
+                                            style: Theme.of(context)
+                                                .textTheme
+                                                .displayMedium!
+                                                .copyWith(
+                                                  fontSize: 11.sp,
+                                                  color: HexColor('#4DAB96'),
+                                                  fontWeight: FontWeight.w500,
                                                 ),
                                           ),
                                         ),
                                       ],
                                     ),
-                                  ],
-                                ),
-                                SizedBox(height: 10.h),
-                                SingleChildScrollView(
-                                  scrollDirection: Axis.horizontal,
-                                  child: Row(
-                                    children: [
-                                      Container(
-                                        padding: EdgeInsets.symmetric(
-                                            horizontal: 10.w, vertical: 5.h),
-                                        decoration: BoxDecoration(
-                                          color: HexColor('#EEEFF1'),
-                                          border: Border.all(
-                                            color: HexColor('#4DAB96'),
-                                          ),
-                                          borderRadius:
-                                              BorderRadius.circular(50),
-                                        ),
-                                        child: Text(
-                                          'Product in good condition',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 11.sp,
-                                                color: HexColor('#4DAB96'),
-                                                fontWeight: FontWeight.w500,
-                                              ),
-                                        ),
-                                      ),
-                                      SizedBox(width: 10.w),
-                                      Container(
-                                        padding: EdgeInsets.symmetric(
-                                            horizontal: 10.w, vertical: 5.h),
-                                        decoration: BoxDecoration(
-                                          color: HexColor('#EEEFF1'),
-                                          border: Border.all(
-                                            color: HexColor('#4DAB96'),
-                                          ),
-                                          borderRadius:
-                                              BorderRadius.circular(50),
-                                        ),
-                                        child: Text(
-                                          'Very fast delivery',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 11.sp,
-                                                color: HexColor('#4DAB96'),
-                                                fontWeight: FontWeight.w500,
-                                              ),
-                                        ),
-                                      ),
-                                      SizedBox(width: 10.w),
-                                      Container(
-                                        padding: EdgeInsets.symmetric(
-                                            horizontal: 10.w, vertical: 5.h),
-                                        decoration: BoxDecoration(
-                                          color: HexColor('#EEEFF1'),
-                                          border: Border.all(
-                                            color: HexColor('#4DAB96'),
-                                          ),
-                                          borderRadius:
-                                              BorderRadius.circular(50),
-                                        ),
-                                        child: Text(
-                                          'Fast wallet transfer',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 11.sp,
-                                                color: HexColor('#4DAB96'),
-                                                fontWeight: FontWeight.w500,
-                                              ),
-                                        ),
-                                      ),
-                                    ],
                                   ),
-                                ),
-                                SizedBox(height: 20.h),
-                                Text(
-                                  'According to my expectation. This is the best\nTahnk you.',
-                                  style: Theme.of(context)
-                                      .textTheme
-                                      .displayMedium!
-                                      .copyWith(
-                                        fontSize: 15.sp,
-                                        color: Colors.black,
-                                        fontWeight: FontWeight.w600,
-                                      ),
-                                ),
-                                SizedBox(
-                                  height: 20.h,
-                                ),
-                                Row(
-                                  mainAxisAlignment:
-                                      MainAxisAlignment.spaceBetween,
-                                  children: [
-                                    Row(
-                                      children: [
-                                        Icon(
-                                          Icons.thumb_up,
-                                          color: HexColor('#4DAB96'),
-                                          size: 15,
+                                  SizedBox(height: 20.h),
+                                  Text(
+                                    'According to my expectation. This is the best\nThank you.',
+                                    style: Theme.of(context)
+                                        .textTheme
+                                        .displayMedium!
+                                        .copyWith(
+                                          fontSize: 12.sp,
+                                          color: Colors.black,
+                                          fontWeight: FontWeight.w600,
                                         ),
-                                        SizedBox(
-                                          width: 10.w,
-                                        ),
-                                        Text(
-                                          'Helpful ?',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 15.sp,
-                                                color: HexColor('#4DAB96'),
-                                                fontWeight: FontWeight.w600,
-                                              ),
-                                        ),
-                                      ],
-                                    ),
-                                    Text(
-                                      'Yesterday',
-                                      style: Theme.of(context)
-                                          .textTheme
-                                          .displayMedium!
-                                          .copyWith(
-                                            fontSize: 15.sp,
+                                  ),
+                                  SizedBox(
+                                    height: 20.h,
+                                  ),
+                                  Row(
+                                    mainAxisAlignment:
+                                        MainAxisAlignment.spaceBetween,
+                                    children: [
+                                      Row(
+                                        children: [
+                                          Icon(
+                                            Icons.thumb_up,
                                             color: HexColor('#4DAB96'),
-                                            fontWeight: FontWeight.w600,
+                                            size: 15,
                                           ),
-                                    ),
-                                  ],
-                                ),
-                                SizedBox(height: 25.h),
-                                const Divider(thickness: 1),
-                                SizedBox(height: 20.h),
-                              ],
-                            ),
-                            Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                Row(
-                                  mainAxisAlignment:
-                                      MainAxisAlignment.spaceBetween,
-                                  children: [
-                                    Row(
-                                      children: [
-                                        const CircleAvatar(
-                                          radius: 15,
-                                          child: Icon(Icons.person),
-                                        ),
-                                        SizedBox(width: 10.w),
-                                        Text(
-                                          'Eren Y****r',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 15.sp,
-                                                color: Colors.black,
-                                                fontWeight: FontWeight.w800,
-                                              ),
-                                        ),
-                                      ],
-                                    ),
-                                    Row(
-                                      mainAxisAlignment:
-                                          MainAxisAlignment.center,
-                                      crossAxisAlignment:
-                                          CrossAxisAlignment.center,
-                                      children: [
-                                        Icon(
-                                          Icons.star,
-                                          color: HexColor('#F6A341'),
-                                          size: 15,
-                                        ),
-                                        SizedBox(width: 5.w),
-                                        Text(
-                                          '5.0',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 20.sp,
-                                                color: Colors.black,
-                                                fontWeight: FontWeight.w800,
-                                              ),
-                                        ),
-                                        SizedBox(width: 15.w),
-                                        Padding(
-                                          padding:
-                                              const EdgeInsets.only(top: 5),
-                                          child: Text(
-                                            '****',
+                                          SizedBox(
+                                            width: 10.w,
+                                          ),
+                                          Text(
+                                            'Helpful ?',
                                             style: Theme.of(context)
                                                 .textTheme
                                                 .displayMedium!
                                                 .copyWith(
-                                                  fontSize: 15.sp,
-                                                  color: Colors.black,
-                                                  fontWeight: FontWeight.w800,
+                                                  fontSize: 12.sp,
+                                                  color: HexColor('#4DAB96'),
+                                                  fontWeight: FontWeight.w600,
                                                 ),
                                           ),
-                                        ),
-                                      ],
-                                    ),
-                                  ],
-                                ),
-                                SizedBox(height: 10.h),
-                                SingleChildScrollView(
-                                  scrollDirection: Axis.horizontal,
-                                  child: Row(
-                                    children: [
-                                      Container(
-                                        padding: EdgeInsets.symmetric(
-                                            horizontal: 10.w, vertical: 5.h),
-                                        decoration: BoxDecoration(
-                                          color: HexColor('#EEEFF1'),
-                                          border: Border.all(
-                                            color: HexColor('#4DAB96'),
-                                          ),
-                                          borderRadius:
-                                              BorderRadius.circular(50),
-                                        ),
-                                        child: Text(
-                                          'Product in good condition',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 11.sp,
-                                                color: HexColor('#4DAB96'),
-                                                fontWeight: FontWeight.w500,
-                                              ),
-                                        ),
+                                        ],
                                       ),
-                                      SizedBox(width: 10.w),
-                                      Container(
-                                        padding: EdgeInsets.symmetric(
-                                            horizontal: 10.w, vertical: 5.h),
-                                        decoration: BoxDecoration(
-                                          color: HexColor('#EEEFF1'),
-                                          border: Border.all(
-                                            color: HexColor('#4DAB96'),
-                                          ),
-                                          borderRadius:
-                                              BorderRadius.circular(50),
-                                        ),
-                                        child: Text(
-                                          'Very fast delivery',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 11.sp,
-                                                color: HexColor('#4DAB96'),
-                                                fontWeight: FontWeight.w500,
-                                              ),
-                                        ),
-                                      ),
-                                      SizedBox(width: 10.w),
-                                      Container(
-                                        padding: EdgeInsets.symmetric(
-                                            horizontal: 10.w, vertical: 5.h),
-                                        decoration: BoxDecoration(
-                                          color: HexColor('#EEEFF1'),
-                                          border: Border.all(
-                                            color: HexColor('#4DAB96'),
-                                          ),
-                                          borderRadius:
-                                              BorderRadius.circular(50),
-                                        ),
-                                        child: Text(
-                                          'Fast wallet transfer',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 11.sp,
-                                                color: HexColor('#4DAB96'),
-                                                fontWeight: FontWeight.w500,
-                                              ),
-                                        ),
+                                      Text(
+                                        'Yesterday',
+                                        style: Theme.of(context)
+                                            .textTheme
+                                            .displayMedium!
+                                            .copyWith(
+                                              fontSize: 12.sp,
+                                              color: HexColor('#4DAB96'),
+                                              fontWeight: FontWeight.w600,
+                                            ),
                                       ),
                                     ],
                                   ),
-                                ),
-                                SizedBox(height: 20.h),
-                                Text(
-                                  'According to my expectation. This is the best\nTahnk you.',
-                                  style: Theme.of(context)
-                                      .textTheme
-                                      .displayMedium!
-                                      .copyWith(
-                                        fontSize: 15.sp,
-                                        color: Colors.black,
-                                        fontWeight: FontWeight.w600,
-                                      ),
-                                ),
-                                SizedBox(
-                                  height: 20.h,
-                                ),
-                                Row(
-                                  mainAxisAlignment:
-                                      MainAxisAlignment.spaceBetween,
-                                  children: [
-                                    Row(
-                                      children: [
-                                        Icon(
-                                          Icons.thumb_up,
-                                          color: HexColor('#4DAB96'),
-                                          size: 15,
-                                        ),
-                                        SizedBox(
-                                          width: 10.w,
-                                        ),
-                                        Text(
-                                          'Helpful ?',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 15.sp,
-                                                color: HexColor('#4DAB96'),
-                                                fontWeight: FontWeight.w600,
-                                              ),
-                                        ),
-                                      ],
-                                    ),
-                                    Text(
-                                      'Yesterday',
-                                      style: Theme.of(context)
-                                          .textTheme
-                                          .displayMedium!
-                                          .copyWith(
-                                            fontSize: 15.sp,
-                                            color: HexColor('#4DAB96'),
-                                            fontWeight: FontWeight.w600,
-                                          ),
-                                    ),
-                                  ],
-                                ),
-                                SizedBox(height: 25.h),
-                                const Divider(thickness: 1),
-                                SizedBox(height: 20.h),
-                              ],
-                            ),
-                            Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                Row(
-                                  mainAxisAlignment:
-                                      MainAxisAlignment.spaceBetween,
-                                  children: [
-                                    Row(
-                                      children: [
-                                        const CircleAvatar(
-                                          radius: 15,
-                                          child: Icon(Icons.person),
-                                        ),
-                                        SizedBox(width: 10.w),
-                                        Text(
-                                          'Eren Y****r',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 15.sp,
-                                                color: Colors.black,
-                                                fontWeight: FontWeight.w800,
-                                              ),
-                                        ),
-                                      ],
-                                    ),
-                                    Row(
-                                      mainAxisAlignment:
-                                          MainAxisAlignment.center,
-                                      crossAxisAlignment:
-                                          CrossAxisAlignment.center,
-                                      children: [
-                                        Icon(
-                                          Icons.star,
-                                          color: HexColor('#F6A341'),
-                                          size: 15,
-                                        ),
-                                        SizedBox(width: 5.w),
-                                        Text(
-                                          '5.0',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 20.sp,
-                                                color: Colors.black,
-                                                fontWeight: FontWeight.w800,
-                                              ),
-                                        ),
-                                        SizedBox(width: 15.w),
-                                        Padding(
-                                          padding:
-                                              const EdgeInsets.only(top: 5),
-                                          child: Text(
-                                            '****',
-                                            style: Theme.of(context)
-                                                .textTheme
-                                                .displayMedium!
-                                                .copyWith(
-                                                  fontSize: 15.sp,
-                                                  color: Colors.black,
-                                                  fontWeight: FontWeight.w800,
-                                                ),
-                                          ),
-                                        ),
-                                      ],
-                                    ),
-                                  ],
-                                ),
-                                SizedBox(height: 10.h),
-                                SingleChildScrollView(
-                                  scrollDirection: Axis.horizontal,
-                                  child: Row(
-                                    children: [
-                                      Container(
-                                        padding: EdgeInsets.symmetric(
-                                            horizontal: 10.w, vertical: 5.h),
-                                        decoration: BoxDecoration(
-                                          color: HexColor('#EEEFF1'),
-                                          border: Border.all(
-                                            color: HexColor('#4DAB96'),
-                                          ),
-                                          borderRadius:
-                                              BorderRadius.circular(50),
-                                        ),
-                                        child: Text(
-                                          'Product in good condition',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 11.sp,
-                                                color: HexColor('#4DAB96'),
-                                                fontWeight: FontWeight.w500,
-                                              ),
-                                        ),
-                                      ),
-                                      SizedBox(width: 10.w),
-                                      Container(
-                                        padding: EdgeInsets.symmetric(
-                                            horizontal: 10.w, vertical: 5.h),
-                                        decoration: BoxDecoration(
-                                          color: HexColor('#EEEFF1'),
-                                          border: Border.all(
-                                            color: HexColor('#4DAB96'),
-                                          ),
-                                          borderRadius:
-                                              BorderRadius.circular(50),
-                                        ),
-                                        child: Text(
-                                          'Very fast delivery',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 11.sp,
-                                                color: HexColor('#4DAB96'),
-                                                fontWeight: FontWeight.w500,
-                                              ),
-                                        ),
-                                      ),
-                                      SizedBox(width: 10.w),
-                                      Container(
-                                        padding: EdgeInsets.symmetric(
-                                            horizontal: 10.w, vertical: 5.h),
-                                        decoration: BoxDecoration(
-                                          color: HexColor('#EEEFF1'),
-                                          border: Border.all(
-                                            color: HexColor('#4DAB96'),
-                                          ),
-                                          borderRadius:
-                                              BorderRadius.circular(50),
-                                        ),
-                                        child: Text(
-                                          'Fast wallet transfer',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 11.sp,
-                                                color: HexColor('#4DAB96'),
-                                                fontWeight: FontWeight.w500,
-                                              ),
-                                        ),
-                                      ),
-                                    ],
-                                  ),
-                                ),
-                                SizedBox(height: 20.h),
-                                Text(
-                                  'According to my expectation. This is the best\nTahnk you.',
-                                  style: Theme.of(context)
-                                      .textTheme
-                                      .displayMedium!
-                                      .copyWith(
-                                        fontSize: 15.sp,
-                                        color: Colors.black,
-                                        fontWeight: FontWeight.w600,
-                                      ),
-                                ),
-                                SizedBox(
-                                  height: 20.h,
-                                ),
-                                Row(
-                                  mainAxisAlignment:
-                                      MainAxisAlignment.spaceBetween,
-                                  children: [
-                                    Row(
-                                      children: [
-                                        Icon(
-                                          Icons.thumb_up,
-                                          color: HexColor('#4DAB96'),
-                                          size: 15,
-                                        ),
-                                        SizedBox(
-                                          width: 10.w,
-                                        ),
-                                        Text(
-                                          'Helpful ?',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 15.sp,
-                                                color: HexColor('#4DAB96'),
-                                                fontWeight: FontWeight.w600,
-                                              ),
-                                        ),
-                                      ],
-                                    ),
-                                    Text(
-                                      'Yesterday',
-                                      style: Theme.of(context)
-                                          .textTheme
-                                          .displayMedium!
-                                          .copyWith(
-                                            fontSize: 15.sp,
-                                            color: HexColor('#4DAB96'),
-                                            fontWeight: FontWeight.w600,
-                                          ),
-                                    ),
-                                  ],
-                                ),
-                                SizedBox(height: 25.h),
-                                const Divider(thickness: 1),
-                                SizedBox(height: 20.h),
-                              ],
-                            ),
-                            Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                Row(
-                                  mainAxisAlignment:
-                                      MainAxisAlignment.spaceBetween,
-                                  children: [
-                                    Row(
-                                      children: [
-                                        const CircleAvatar(
-                                          radius: 15,
-                                          child: Icon(Icons.person),
-                                        ),
-                                        SizedBox(width: 10.w),
-                                        Text(
-                                          'Eren Y****r',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 15.sp,
-                                                color: Colors.black,
-                                                fontWeight: FontWeight.w800,
-                                              ),
-                                        ),
-                                      ],
-                                    ),
-                                    Row(
-                                      mainAxisAlignment:
-                                          MainAxisAlignment.center,
-                                      crossAxisAlignment:
-                                          CrossAxisAlignment.center,
-                                      children: [
-                                        Icon(
-                                          Icons.star,
-                                          color: HexColor('#F6A341'),
-                                          size: 15,
-                                        ),
-                                        SizedBox(width: 5.w),
-                                        Text(
-                                          '5.0',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 20.sp,
-                                                color: Colors.black,
-                                                fontWeight: FontWeight.w800,
-                                              ),
-                                        ),
-                                        SizedBox(width: 15.w),
-                                        Padding(
-                                          padding:
-                                              const EdgeInsets.only(top: 5),
-                                          child: Text(
-                                            '****',
-                                            style: Theme.of(context)
-                                                .textTheme
-                                                .displayMedium!
-                                                .copyWith(
-                                                  fontSize: 15.sp,
-                                                  color: Colors.black,
-                                                  fontWeight: FontWeight.w800,
-                                                ),
-                                          ),
-                                        ),
-                                      ],
-                                    ),
-                                  ],
-                                ),
-                                SizedBox(height: 10.h),
-                                SingleChildScrollView(
-                                  scrollDirection: Axis.horizontal,
-                                  child: Row(
-                                    children: [
-                                      Container(
-                                        padding: EdgeInsets.symmetric(
-                                            horizontal: 10.w, vertical: 5.h),
-                                        decoration: BoxDecoration(
-                                          color: HexColor('#EEEFF1'),
-                                          border: Border.all(
-                                            color: HexColor('#4DAB96'),
-                                          ),
-                                          borderRadius:
-                                              BorderRadius.circular(50),
-                                        ),
-                                        child: Text(
-                                          'Product in good condition',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 11.sp,
-                                                color: HexColor('#4DAB96'),
-                                                fontWeight: FontWeight.w500,
-                                              ),
-                                        ),
-                                      ),
-                                      SizedBox(width: 10.w),
-                                      Container(
-                                        padding: EdgeInsets.symmetric(
-                                            horizontal: 10.w, vertical: 5.h),
-                                        decoration: BoxDecoration(
-                                          color: HexColor('#EEEFF1'),
-                                          border: Border.all(
-                                            color: HexColor('#4DAB96'),
-                                          ),
-                                          borderRadius:
-                                              BorderRadius.circular(50),
-                                        ),
-                                        child: Text(
-                                          'Very fast delivery',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 11.sp,
-                                                color: HexColor('#4DAB96'),
-                                                fontWeight: FontWeight.w500,
-                                              ),
-                                        ),
-                                      ),
-                                      SizedBox(width: 10.w),
-                                      Container(
-                                        padding: EdgeInsets.symmetric(
-                                            horizontal: 10.w, vertical: 5.h),
-                                        decoration: BoxDecoration(
-                                          color: HexColor('#EEEFF1'),
-                                          border: Border.all(
-                                            color: HexColor('#4DAB96'),
-                                          ),
-                                          borderRadius:
-                                              BorderRadius.circular(50),
-                                        ),
-                                        child: Text(
-                                          'Fast wallet transfer',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 11.sp,
-                                                color: HexColor('#4DAB96'),
-                                                fontWeight: FontWeight.w500,
-                                              ),
-                                        ),
-                                      ),
-                                    ],
-                                  ),
-                                ),
-                                SizedBox(height: 20.h),
-                                Text(
-                                  'According to my expectation. This is the best\nTahnk you.',
-                                  style: Theme.of(context)
-                                      .textTheme
-                                      .displayMedium!
-                                      .copyWith(
-                                        fontSize: 15.sp,
-                                        color: Colors.black,
-                                        fontWeight: FontWeight.w600,
-                                      ),
-                                ),
-                                SizedBox(
-                                  height: 20.h,
-                                ),
-                                Row(
-                                  mainAxisAlignment:
-                                      MainAxisAlignment.spaceBetween,
-                                  children: [
-                                    Row(
-                                      children: [
-                                        Icon(
-                                          Icons.thumb_up,
-                                          color: HexColor('#4DAB96'),
-                                          size: 15,
-                                        ),
-                                        SizedBox(
-                                          width: 10.w,
-                                        ),
-                                        Text(
-                                          'Helpful ?',
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .displayMedium!
-                                              .copyWith(
-                                                fontSize: 15.sp,
-                                                color: HexColor('#4DAB96'),
-                                                fontWeight: FontWeight.w600,
-                                              ),
-                                        ),
-                                      ],
-                                    ),
-                                    Text(
-                                      'Yesterday',
-                                      style: Theme.of(context)
-                                          .textTheme
-                                          .displayMedium!
-                                          .copyWith(
-                                            fontSize: 15.sp,
-                                            color: HexColor('#4DAB96'),
-                                            fontWeight: FontWeight.w600,
-                                          ),
-                                    ),
-                                  ],
-                                ),
-                                SizedBox(height: 25.h),
-                                const Divider(thickness: 1),
-                                SizedBox(height: 20.h),
-                              ],
-                            ),
+                                  SizedBox(height: 20.h),
+                                  const Divider(thickness: 1),
+                                  SizedBox(height: 15.h),
+                                ],
+                              ),
+                            )),
                             Row(
                               mainAxisAlignment: MainAxisAlignment.spaceBetween,
                               children: [
@@ -2234,7 +1611,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                            fontSize: 15.sp,
+                                            fontSize: 12.sp,
                                             color: HexColor('#4DAB96'),
                                             fontWeight: FontWeight.w600,
                                           ),
@@ -2246,7 +1623,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                            fontSize: 15.sp,
+                                            fontSize: 12.sp,
                                             color: HexColor('#4DAB96'),
                                             fontWeight: FontWeight.w600,
                                           ),
@@ -2258,7 +1635,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                            fontSize: 15.sp,
+                                            fontSize: 12.sp,
                                             color: HexColor('#4DAB96'),
                                             fontWeight: FontWeight.w600,
                                           ),
@@ -2270,7 +1647,7 @@ class _CartItemViewState extends State<CartItemView>
                                           .textTheme
                                           .displayMedium!
                                           .copyWith(
-                                            fontSize: 15.sp,
+                                            fontSize: 12.sp,
                                             color: HexColor('#4DAB96'),
                                             fontWeight: FontWeight.w600,
                                           ),
@@ -2293,7 +1670,7 @@ class _CartItemViewState extends State<CartItemView>
                                       .textTheme
                                       .displayMedium!
                                       .copyWith(
-                                        fontSize: 15.sp,
+                                        fontSize: 12.sp,
                                         color: HexColor('#4DAB96'),
                                         fontWeight: FontWeight.w600,
                                       ),
@@ -2310,7 +1687,7 @@ class _CartItemViewState extends State<CartItemView>
                                       .textTheme
                                       .displayMedium!
                                       .copyWith(
-                                        fontSize: 20.sp,
+                                        fontSize: 16.sp,
                                         color: Colors.black,
                                         fontWeight: FontWeight.w600,
                                       ),
@@ -2321,7 +1698,7 @@ class _CartItemViewState extends State<CartItemView>
                                       .textTheme
                                       .displayMedium!
                                       .copyWith(
-                                        fontSize: 15.sp,
+                                        fontSize: 12.sp,
                                         color: HexColor('#4DAB96'),
                                         fontWeight: FontWeight.w600,
                                       ),
@@ -2353,7 +1730,7 @@ class _CartItemViewState extends State<CartItemView>
                               .textTheme
                               .displayMedium!
                               .copyWith(
-                                fontSize: 14.sp,
+                                fontSize: 12.sp,
                                 color: BrandColors.textColor,
                                 fontWeight: FontWeight.w500,
                               ),
@@ -2365,7 +1742,7 @@ class _CartItemViewState extends State<CartItemView>
                               .textTheme
                               .displayMedium!
                               .copyWith(
-                                fontSize: 27.sp,
+                                fontSize: 20.sp,
                                 color: HexColor('#4DAB96'),
                                 fontWeight: FontWeight.w800,
                               ),
@@ -2375,7 +1752,7 @@ class _CartItemViewState extends State<CartItemView>
                     Row(
                       children: [
                         Container(
-                          height: 35,
+                          height: 45,
                           width: 45,
                           decoration: BoxDecoration(
                               color: HexColor('#4DAB96'),
@@ -2399,7 +1776,7 @@ class _CartItemViewState extends State<CartItemView>
                                     .textTheme
                                     .displayMedium!
                                     .copyWith(
-                                      fontSize: 15.sp,
+                                      fontSize: 14.sp,
                                       color: Colors.white,
                                       fontWeight: FontWeight.w700,
                                     ),
@@ -2408,7 +1785,7 @@ class _CartItemViewState extends State<CartItemView>
                           ),
                         ),
                         Container(
-                          height: 35,
+                          height: 45,
                           width: 100,
                           decoration: const BoxDecoration(
                               color: Colors.black,
@@ -2423,7 +1800,7 @@ class _CartItemViewState extends State<CartItemView>
                                   .textTheme
                                   .displayMedium!
                                   .copyWith(
-                                    fontSize: 15.sp,
+                                    fontSize: 14.sp,
                                     color: Colors.white,
                                     fontWeight: FontWeight.w700,
                                   ),
@@ -2503,11 +1880,13 @@ class Recommendations extends StatelessWidget {
                         height: 8.h,
                       ),
                       Text(
-                        'Essentials Men\'s Short-\nSleeve Crewnect T-shirt',
-                        style: Theme.of(context).textTheme.titleLarge!.copyWith(
-                            fontSize: 13.sp,
-                            color: Colors.black,
-                            fontWeight: FontWeight.w700),
+                        'Essentials Men\'s Short-Sleeve Crewnect T-shirt',
+                        style:
+                            Theme.of(context).textTheme.displayMedium!.copyWith(
+                                  fontSize: 12,
+                                  color: Colors.black,
+                                  fontWeight: FontWeight.w700,
+                                ),
                       ),
                       SizedBox(
                         height: 10.h,
@@ -2526,26 +1905,23 @@ class Recommendations extends StatelessWidget {
                                 '4.9 | 2356',
                                 style: Theme.of(context)
                                     .textTheme
-                                    .titleLarge!
+                                    .displayMedium!
                                     .copyWith(
-                                        fontSize: 14.sp,
+                                        fontSize: 12,
                                         color: BrandColors.textColor,
                                         fontWeight: FontWeight.w600),
                               ),
                             ],
                           ),
-                          Padding(
-                            padding: const EdgeInsets.only(bottom: 3),
-                            child: Text(
-                              '\$12.00',
-                              style: Theme.of(context)
-                                  .textTheme
-                                  .titleLarge!
-                                  .copyWith(
-                                      fontSize: 18.sp,
-                                      color: HexColor('#4DAB96'),
-                                      fontWeight: FontWeight.w700),
-                            ),
+                          Text(
+                            '\$12.00',
+                            style: Theme.of(context)
+                                .textTheme
+                                .titleLarge!
+                                .copyWith(
+                                    fontSize: 16,
+                                    color: HexColor('#4DAB96'),
+                                    fontWeight: FontWeight.w700),
                           ),
                         ],
                       ),
@@ -2560,12 +1936,13 @@ class Recommendations extends StatelessWidget {
           ),
         ),
         SizedBox(
-          width: 20.w,
+          width: 15.w,
         ),
         Expanded(
           child: GestureDetector(
             onTap: () {},
             child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 SizedBox(
                   width: 180,
@@ -2611,11 +1988,13 @@ class Recommendations extends StatelessWidget {
                         height: 8.h,
                       ),
                       Text(
-                        'Essentials Men\'s Short-\nSleeve Crewnect T-shirt',
-                        style: Theme.of(context).textTheme.titleLarge!.copyWith(
-                            fontSize: 13.sp,
-                            color: Colors.black,
-                            fontWeight: FontWeight.w700),
+                        'Essentials Men\'s Short-Sleeve Crewnect T-shirt',
+                        style:
+                            Theme.of(context).textTheme.displayMedium!.copyWith(
+                                  fontSize: 12,
+                                  color: Colors.black,
+                                  fontWeight: FontWeight.w700,
+                                ),
                       ),
                       SizedBox(
                         height: 10.h,
@@ -2634,26 +2013,23 @@ class Recommendations extends StatelessWidget {
                                 '4.9 | 2356',
                                 style: Theme.of(context)
                                     .textTheme
-                                    .titleLarge!
+                                    .displayMedium!
                                     .copyWith(
-                                        fontSize: 14.sp,
+                                        fontSize: 12,
                                         color: BrandColors.textColor,
                                         fontWeight: FontWeight.w600),
                               ),
                             ],
                           ),
-                          Padding(
-                            padding: const EdgeInsets.only(bottom: 3),
-                            child: Text(
-                              '\$12.00',
-                              style: Theme.of(context)
-                                  .textTheme
-                                  .titleLarge!
-                                  .copyWith(
-                                      fontSize: 18.sp,
-                                      color: HexColor('#4DAB96'),
-                                      fontWeight: FontWeight.w700),
-                            ),
+                          Text(
+                            '\$12.00',
+                            style: Theme.of(context)
+                                .textTheme
+                                .titleLarge!
+                                .copyWith(
+                                    fontSize: 16,
+                                    color: HexColor('#4DAB96'),
+                                    fontWeight: FontWeight.w700),
                           ),
                         ],
                       ),

@@ -69,13 +69,18 @@ class _DashboardViewState extends State<DashboardView>
                           children: [
                             Row(
                               children: [
-                                SvgPicture.asset('cart'.svg),
+                                SvgPicture.asset(
+                                  'cart'.svg,
+                                  height: 20.h,
+                                  colorFilter: const ColorFilter.mode(
+                                      Colors.black, BlendMode.srcIn),
+                                ),
                                 const SizedBox(
                                   width: 20,
                                 ),
                                 SvgPicture.asset(
                                   'notification'.svg,
-                                  height: 20,
+                                  height: 20.h,
                                 ),
                                 SizedBox(
                                   width:
@@ -88,7 +93,7 @@ class _DashboardViewState extends State<DashboardView>
                               right: 10,
                               child: Container(
                                 padding: EdgeInsets.symmetric(
-                                    vertical: 2, horizontal: 5.w),
+                                    vertical: 5, horizontal: 5.w),
                                 decoration: BoxDecoration(
                                   color: HexColor('#E55986'),
                                   borderRadius: BorderRadius.circular(5),
@@ -99,7 +104,7 @@ class _DashboardViewState extends State<DashboardView>
                                       .textTheme
                                       .titleLarge!
                                       .copyWith(
-                                          fontSize: 15.sp,
+                                          fontSize: 10.sp,
                                           color: Colors.white,
                                           fontWeight: FontWeight.w700),
                                 ),
@@ -107,10 +112,10 @@ class _DashboardViewState extends State<DashboardView>
                             ),
                             Positioned(
                               top: 10,
-                              right: 47,
+                              right: 50,
                               child: Container(
                                 padding: EdgeInsets.symmetric(
-                                    vertical: 2, horizontal: 8.w),
+                                    vertical: 5, horizontal: 8.w),
                                 decoration: BoxDecoration(
                                   color: HexColor('#E55986'),
                                   borderRadius: BorderRadius.circular(5),
@@ -121,7 +126,7 @@ class _DashboardViewState extends State<DashboardView>
                                       .textTheme
                                       .titleLarge!
                                       .copyWith(
-                                          fontSize: 15.sp,
+                                          fontSize: 10.sp,
                                           color: Colors.white,
                                           fontWeight: FontWeight.w700),
                                 ),
@@ -133,7 +138,7 @@ class _DashboardViewState extends State<DashboardView>
                       floating: true,
                       pinned: true,
                       snap: true,
-                      expandedHeight: 410.h,
+                      expandedHeight: 382.h,
                       flexibleSpace: Column(
                         children: [
                           Expanded(
@@ -141,12 +146,13 @@ class _DashboardViewState extends State<DashboardView>
                               child: SingleChildScrollView(
                                 child: Column(
                                   children: [
+                                    SizedBox(
+                                      height: 10.h,
+                                    ),
                                     CarouselSlider(
                                       options: CarouselOptions(
                                         viewportFraction: 1,
-                                        enlargeStrategy:
-                                            CenterPageEnlargeStrategy.height,
-                                        height: 250,
+                                        height: 275,
                                         animateToClosest: true,
                                         initialPage: 0,
                                         pageSnapping: true,
@@ -235,7 +241,7 @@ class _DashboardViewState extends State<DashboardView>
                                                       ),
                                                       CustomButton(
                                                         onTap: () {},
-                                                        width: 100,
+                                                        width: 125.w,
                                                         height: 35,
                                                         borderRadius: 7,
                                                         color: Colors.black,
@@ -361,7 +367,7 @@ class _DashboardViewState extends State<DashboardView>
                                                             .textTheme
                                                             .titleLarge!
                                                             .copyWith(
-                                                                fontSize: 30.sp,
+                                                                fontSize: 25.sp,
                                                                 color: Colors
                                                                     .black,
                                                                 fontWeight:
@@ -373,7 +379,7 @@ class _DashboardViewState extends State<DashboardView>
                                                       ),
                                                       CustomButton(
                                                         onTap: () {},
-                                                        width: 100,
+                                                        width: 125.w,
                                                         height: 35,
                                                         borderRadius: 7,
                                                         color: Colors.black,
@@ -451,7 +457,7 @@ class _DashboardViewState extends State<DashboardView>
                                     Container(
                                       width: double.infinity,
                                       padding: EdgeInsets.symmetric(
-                                          horizontal: 20.w, vertical: 15.h),
+                                          horizontal: 20.w, vertical: 10.h),
                                       decoration: const BoxDecoration(
                                         color: Colors.white,
                                       ),
@@ -543,7 +549,7 @@ class _DashboardViewState extends State<DashboardView>
                         ],
                       ),
                       bottom: PreferredSize(
-                        preferredSize: Size(double.infinity, 120.h),
+                        preferredSize: Size(double.infinity, 100.h),
                         child: Container(
                           padding: EdgeInsets.symmetric(
                               vertical: 15.h, horizontal: 20.w),
@@ -558,7 +564,7 @@ class _DashboardViewState extends State<DashboardView>
                                     .textTheme
                                     .titleLarge!
                                     .copyWith(
-                                        fontSize: 20.sp,
+                                        fontSize: 18.sp,
                                         color: Colors.black,
                                         fontWeight: FontWeight.w700),
                               ),
